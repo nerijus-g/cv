@@ -1,0 +1,4 @@
+- name: My first play
+  hosts: myhosts
+  roles:
+   - role: hello
