@@ -2,3 +2,4 @@
   hosts: myhosts
   roles:
    - role: hello
+   - role: nodejs
